@@ -30,9 +30,6 @@ class Tab1 extends Component {
             <IonPage>
                 <IonHeader>
                     <IonToolbar>
-                        <IonButtons slot="start">
-                            <IonMenuButton autoHide={false} />
-                        </IonButtons>
                         <IonTitle>Home</IonTitle>
                     </IonToolbar>
                 </IonHeader>
