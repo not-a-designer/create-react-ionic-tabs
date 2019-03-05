@@ -1,0 +1,29 @@
+{
+  "name": "create-react-ionic-tabs",
+  "version": "1.0.0",
+  "description": "Creates a react ionic tabs starter template",
+  "main": "index.js",
+  "bin": {
+    "create-react-ionic-tabs": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/not-a-designer/create-react-ionic-tabs.git"
+  },
+  "keywords": [
+    "react",
+    "ionic",
+    "tabs",
+    "starter",
+    "template"
+  ],
+  "author": "Joel Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "shelljs": "^0.8.3"
+  }
+}
