@@ -30,7 +30,7 @@ class Tab1 extends Component {
             <IonPage>
                 <IonHeader>
                     <IonToolbar>
-                        <IonTitle>Home</IonTitle>
+                        <IonTitle>Tab 1</IonTitle>
                     </IonToolbar>
                 </IonHeader>
 
